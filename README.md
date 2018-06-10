@@ -1,6 +1,6 @@
 # JavaFun
 
-## Practicing receiving HTTP responses for restful api
+**Practicing receiving HTTP responses for restful api
 
-## Understading of Functional Programming with java 8 +
+**Understading of Functional Programming with java 8 +
 
